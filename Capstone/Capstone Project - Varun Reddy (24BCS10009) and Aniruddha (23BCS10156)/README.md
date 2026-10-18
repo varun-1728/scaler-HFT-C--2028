@@ -1,6 +1,7 @@
 # Capstone: Low-Latency Order Book
 
-**Varun Reddy** · varun.24bcs10009@sst.scaler.com · Roll no. **24BCS10009**
+**Varun Reddy** · varun.24bcs10009@sst.scaler.com · Roll no. **24BCS10009**  
+**Aniruddha** · Aniruddha.23bcs10156@sst.scaler.com · Roll no. **23BCS10156**
 
 A resting order book for one instrument (no matching), implemented three times
 with genuinely different data structures, checked against a reference model,

@@ -1,6 +1,7 @@
 # Order Book Capstone: Results and Performance Analysis
 
-**Varun Reddy** · varun.24bcs10009@sst.scaler.com · 24BCS10009
+**Varun Reddy** · varun.24bcs10009@sst.scaler.com · 24BCS10009  
+**Aniruddha** · Aniruddha.23bcs10156@sst.scaler.com · 23BCS10156
 
 **Machine:** AMD Ryzen 9 5900HX (Zen 3; 32 KiB L1d and 512 KiB L2 per core, 16 MiB L3),
 Ubuntu 24.04, Linux 7.0, g++ 13.3 `-O2`, CPU governor `performance`, benchmark pinned to
